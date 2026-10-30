@@ -1,0 +1,3 @@
+{
+  "required": ["nome", "email", "telefone", "endereco.cep", "pedidos[].id", "pedidos[].total"]
+}

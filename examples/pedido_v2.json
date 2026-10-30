@@ -1,0 +1,9 @@
+{
+  "pedidos": [
+    { "total": 59.9, "id": 1 },
+    { "id": 2, "total": "120" }
+  ],
+  "nome": "Ana Souza",
+  "email": "ana.souza@example.com",
+  "endereco": { "cidade": "Campinas", "cep": "01000-000", "pais": "BR" }
+}

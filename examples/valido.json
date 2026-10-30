@@ -1,0 +1,10 @@
+{
+  "nome": "Ana Souza",
+  "email": "ana@example.com",
+  "idade": 29,
+  "endereco": { "cidade": "São Paulo", "cep": "01000-000" },
+  "pedidos": [
+    { "id": 1, "total": 59.9 },
+    { "id": 2, "total": 120 }
+  ]
+}
